@@ -5,11 +5,17 @@
 Coding demonstration found at [YouTube - Laith Harb - React with TypeScript Crash Course 2021](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 
 ### MVP
-Watch video and get application running
+Follow these steps to get this repository working in your local environment.
+1. Download repository.
+2. Open command terminal and navigate to MERN-TypeScript-7Weeks/Week-3/Day-1
+3. Type `npm install` into the command line to install of the necessary dependencies locally.
+4. Type `npm start` into the command line to launch a React with TypeScript template.
 
+### Stretch Goal
+Watch [this tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU) and code along. Final code can be found [here](https://github.com/harblaith7/React-With-TypeScript-Crash-Course). Coding along and learning from your own mistakes is the best way to use this kind of content! =) 
 
-### Strech Goal
-
+### SUPER Stretch Goal
+Add the *HEIGHT* of each of the basketball players from [this tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU) to the interface and render it in the browser.
 
 ------
 ------
