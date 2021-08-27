@@ -12,7 +12,7 @@ Follow these steps to get this repository working in your local environment.
 4. Type `npm start` into the command line to launch a React with TypeScript template.
 
 ### Stretch Goal
-Watch [this tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU) and code along. Final code can be found [here](https://github.com/harblaith7/React-With-TypeScript-Crash-Course). Coding along and learning from your own mistakes is the best way to use this kind of content! =) 
+Watch [this tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU) and code along. Final code can be found [here](https://github.com/harblaith7/React-With-TypeScript-Crash-Course). Actively coding along and learning from your own mistakes is the best way to use this kind of content! =) 
 
 ### SUPER Stretch Goal
 Add the *HEIGHT* of each of the basketball players from [this tutorial](https://www.youtube.com/watch?v=jrKcJxF0lAU) to the interface and render it in the browser.
