@@ -1,16 +1,22 @@
 # MERN-TypeScript-7weeks
 https://github.com/sub1ect/Social-media-app
 ## Week 3 - Day 3
-
+Coding demonstration found at [PlainEnglish.io - Brian Francis - How to Create a Sign-Up Form with React and TypeScript](https://javascript.plainenglish.io/creating-a-sign-up-form-in-react-with-typescript-516b1a172913)
 
 ### MVP
 
+*Prerequisite Knowledge: starting a basic React/TypeScript Application using `npx create-react-app --template typescript`, navigating to the proper directory, executing `npm install` and then `npm start` to run a React/TypeScript application.*
+
+Download, install, and launch the boiler plate found in this repository. Follow [this tutorial](https://javascript.plainenglish.io/creating-a-sign-up-form-in-react-with-typescript-516b1a172913) to create an application that has a form that recieves input values.
 
 ### Stretch Goal
-
+Follow [this tutorial](https://dev-yakuza.posstree.com/en/react/react-router/) to add routing from a home page to your form.
 
 ### SUPER Stretch Goal
+Follow [this tutorial](https://auth0.com/blog/node-js-and-typescript-tutorial-build-a-crud-api/) to create a RESTful API in TypeScript that recieves those values from your form.
 
+### MEGA Stretch Goal
+Create a custom hook that does anything at all! =)
 ------
 ------
 
