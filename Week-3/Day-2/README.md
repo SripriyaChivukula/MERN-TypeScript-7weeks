@@ -1,15 +1,20 @@
 # MERN-TypeScript-7weeks
 
-## Week 3 - Day 1
+## Week 3 - Day 2
 
+Coding demonstration found at [Medium - Livingstone Asabahebwa - Interacting With RESTful APIs Using TypeScript, React Hooks, and Axios](https://medium.com/swlh/interacting-with-restful-apis-using-typescript-react-hooks-and-axios-part-1-af52920ae3e4)
 
 ### MVP
 
+*Prerequisite Knowledge: starting a basic React/TypeScript Application using `npx create-react-app --template typescript`, navigating to the proper directory, executing `npm install` and then `npm start` to run a React/TypeScript application.*
+
+Download, install, and launch the boiler plate found in this repository. Follow [this tutorial](https://medium.com/swlh/interacting-with-restful-apis-using-typescript-react-hooks-and-axios-part-1-af52920ae3e4) to consume a RESTful API using a React/TypeScript application.
 
 ### Stretch Goal
-
+Replace the JSONPlaceHolder API endpoints with [this](https://alexwohlbruck.github.io/cat-facts/docs/) very accessible API containing some cool feline facts!
 
 ### SUPER Stretch Goal
+Find another API to consume or otherwise manipulate! Have some fun and please share your results! We want to see them! =) 
 
 ------
 ------
