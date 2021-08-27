@@ -1,5 +1,5 @@
 # MERN-TypeScript-7weeks
-https://github.com/sub1ect/Social-media-app
+
 ## Week 3 - Day 3
 Coding demonstration found at [PlainEnglish.io - Brian Francis - How to Create a Sign-Up Form with React and TypeScript](https://javascript.plainenglish.io/creating-a-sign-up-form-in-react-with-typescript-516b1a172913)
 
@@ -17,6 +17,7 @@ Follow [this tutorial](https://auth0.com/blog/node-js-and-typescript-tutorial-bu
 
 ### MEGA Stretch Goal
 Create a custom hook that does anything at all! =)
+
 ------
 ------
 
