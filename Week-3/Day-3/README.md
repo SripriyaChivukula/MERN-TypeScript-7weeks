@@ -1,11 +1,14 @@
 # MERN-TypeScript-7weeks
 
 ## Week 3 - Day 3
+
+*Prerequisite Knowledge: GitHub, React with TypeScript, HTTP requests*
+
+*Exercise Goals: downloading GitHub repositories, installing packages, creating forms that take input data, React routing*
+
 Coding demonstration found at [PlainEnglish.io - Brian Francis - How to Create a Sign-Up Form with React and TypeScript](https://javascript.plainenglish.io/creating-a-sign-up-form-in-react-with-typescript-516b1a172913)
 
 ### MVP
-
-*Prerequisite Knowledge: starting a basic React/TypeScript Application using `npx create-react-app --template typescript`, navigating to the proper directory, executing `npm install` and then `npm start` to run a React/TypeScript application.*
 
 Download, install, and launch the boiler plate found in this repository. Follow [this tutorial](https://javascript.plainenglish.io/creating-a-sign-up-form-in-react-with-typescript-516b1a172913) to create an application that has a form that recieves input values.
 

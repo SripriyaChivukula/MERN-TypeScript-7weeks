@@ -5,7 +5,9 @@ Coding demonstration found at [YouTube - Codevolution - React TypeScript Webpack
 
 ### MVP
 
-*Prerequisite Knowledge: installing node packages, configuring webpack, crafting components, and React navigation with react-router-dom.*
+*Prerequisite Knowledge: installing node packages, crafting components, and React navigation with react-router-dom.*
+
+*Exercise Goals: Gain more detailed knowledge of the architecture of a React with TypeScript application by not relying upon the the `npx create-react-app --template typescript` script for initial project scaffolding.*
 
 Download the basic HTML file and begin importing your important libraries like Babel, Webpack, React, and TypeScript. Follow [this tutorial](https://www.youtube.com/watch?v=Elpu7CIuqjY&list=PLC3y8-rFHvwiWPS2RO3BKotLRfgg_8WEo) to create a React with TypeScript template from scratch! 
 

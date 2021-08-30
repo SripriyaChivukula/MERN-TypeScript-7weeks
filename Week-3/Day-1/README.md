@@ -2,6 +2,10 @@
 
 ## Week 3 - Day 1
 
+*Prerequisite Knowledge: GitHub, downloading repositories, installing dependecies.*
+
+*Exercise Goals: Become intiially familiar with both GitHub and a basic React with TypeScript application.*
+
 Coding demonstration found at [YouTube - Laith Harb - React with TypeScript Crash Course 2021](https://www.youtube.com/watch?v=jrKcJxF0lAU)
 
 ### MVP
