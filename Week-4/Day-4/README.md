@@ -6,7 +6,7 @@
 
 *Exercise Goals:*
 
-Coding demonstration found at [social media app](https://github.com/sub1ect/Social-media-app).
+Coding demonstration found at [PluralSight - Kamran Ayub - How to Test React Components in TypeScript](https://www.pluralsight.com/guides/how-to-test-react-components-in-typescript).
 
 ### MVP
 
