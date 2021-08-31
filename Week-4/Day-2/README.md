@@ -4,7 +4,7 @@
 
 *Prerequisite Knowledge: GitHub, TypeScript, React w/ TypeScript, Basic State Management*
 
-*Exercise Goals: Introduce the most popular third party library for managing state with React applications - Redux! Learners should be able to create a React w/ TypeScript and React Redux boilerplate for practical applications. Additionally, they should complete the stretch goal of adding real functionality to the lesson.*
+*Exercise Goals: Introduce the most popular third party library for managing state with React applications - Redux! Learners should be able to create a React w/ TypeScript and React Redux boilerplate for practical applications. Additionally, they should complete the stretch goal of adding real functionality to the application.*
 
 ### MVP
 Create React w/ Redux and TypeScript Boilerplate!  
