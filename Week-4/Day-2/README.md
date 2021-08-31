@@ -13,8 +13,6 @@ Coding demonstration found at [FreeCodeCamp - Ibrahima Ndaw - How to Use Redux i
 
 Please follow the instructions found at [this](https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/) link to build your first React with Redux and TypeScript application. It's important to get this practice so that you have a great understanding of what things are and where they go.
 
-You can also find a boilerplate to get you going [here](https://github.com/Per-Scholas-Org/node-typescript-boilerplate) if you need help.
-
 ### Stretch Goal
 Create a Todo List! 
 
