@@ -12,8 +12,8 @@ Create a simple Grocery List application. Your user interface should include at 
 
 ### Stretch Goal
 
-Use react-router-dom to create multiple routes and pages. These pages can be anything you want such as a homepage, about page, etc. 
+Add a second input field that is a <ins>dropdown</ins> with different categories of items to select like "beef", "fruit", etc. Use should be able to input a string, select that item's category from the dropdown, and then click a submit button to add it to the list. 
 
 ### SUPER Stretch Goal
 
-Make an API fetch request to [any APi](https://github.com/public-apis/public-apis) and render the data on one of your routes.
+Make an API fetch request to [any APi](https://github.com/public-apis/public-apis) and render the data in the browser.
