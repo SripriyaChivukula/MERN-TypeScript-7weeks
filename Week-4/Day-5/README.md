@@ -16,4 +16,3 @@ Use react-router-dom to create multiple routes and pages. These pages can be any
 
 ### SUPER Stretch Goal
 
-Make an API fetch request to [any APi](https://github.com/public-apis/public-apis) and render the data on one of your routes.

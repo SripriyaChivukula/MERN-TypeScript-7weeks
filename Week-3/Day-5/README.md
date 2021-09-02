@@ -12,7 +12,7 @@ Create a simple Grocery List application. Your user interface should include at 
 
 ### Stretch Goal
 
-Add a second input field that is a <ins>dropdown</ins> with different categories of items to select like "beef", "fruit", etc. Use should be able to input a string, select that item's category from the dropdown, and then click a submit button to add it to the list. 
+Add a second input field that is a <ins>dropdown</ins> with different categories of items to select like "beef", "fruit", etc. Users should be able to select that item's category from the dropdown and then click a submit button to add it to the list. 
 
 ### SUPER Stretch Goal
 
