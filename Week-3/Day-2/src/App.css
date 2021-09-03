@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #97e629;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,9 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+#back
+{
+  background-image: url('musicapp.jpg');
+}
 
 .App-link {
-  color: #61dafb;
+  color: #dd16ab;
 }
 
 @keyframes App-logo-spin {

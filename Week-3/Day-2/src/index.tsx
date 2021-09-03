@@ -2,11 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Playlist from './Playlist'
 import reportWebVitals from './reportWebVitals';
+import Songs from './Songs';
+import SongAttributes from './SongAttributes'
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Playlist />
+    <Songs />
   </React.StrictMode>,
   document.getElementById('root')
 );
