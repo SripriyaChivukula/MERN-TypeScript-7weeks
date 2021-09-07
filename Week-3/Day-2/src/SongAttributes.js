@@ -9,7 +9,7 @@ import './App.css';
 
 function MySongAttributes()
 {
-    const SongAttributes = [{ title:"Shawn Mendes",duration:"4:00"},{title:"xyz",duration:"5"}];
+    const SongAttributes = [{ song:"Senorita",artist:"Shawn Mendes",duration:"4:00"},{song:"Cheap Thrills",artist:"Sia",duration:"5"}];
 
    
     return SongAttributes

@@ -14,9 +14,6 @@ import {
 
 function App() {
   return (
-
-
-    
     <div className="App" id="back">
       <header className="App-header">
         
