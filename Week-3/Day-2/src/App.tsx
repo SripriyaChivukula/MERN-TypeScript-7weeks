@@ -4,6 +4,7 @@ import './App.css';
 import Playlist from './Playlist'
 import Home from './Home'
 import Songs from './Songs'
+import musicapp from './musicapp.jpg'
 
 import {
   BrowserRouter as Router,
@@ -17,7 +18,7 @@ function App() {
     <div className="App" id="back">
       <header className="App-header">
         
-        <img src = "./musicapp.jpg" alt='musicapp'/>
+        <img src = {musicapp} alt='musicapp'/>
       
          <Router>
            <div>
